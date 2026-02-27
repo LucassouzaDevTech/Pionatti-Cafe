@@ -1,6 +1,6 @@
 # ☕ Pionatti — Café e Produtos Naturais
 
-![Freelance](https://img.shields.io/badge/Projeto-Freelancer-blueviolet?style=flat-square) ![Entregue](https://img.shields.io/badge/Entregue-✓-brightgreen?style=flat-square)
+![Freelance](https://img.shields.io/badge/Projeto-Freelancer-blueviolet?style=flat-square) ![Status](https://img.shields.io/badge/Status-Em%20Produção-success?style=flat-square)
 > Site de cardápio digital com carrinho de compras e pedidos via WhatsApp para o Pionatti Café, em São Jerônimo da Serra – PR.
 > 
 > 💼 **Projeto freelancer desenvolvido para um cliente real.**
